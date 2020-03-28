@@ -1,4 +1,6 @@
-# Square Array
+SyntaxError:
+  /home/Natalino/programming-univbasics-4-square-array-lon01-seng-ft-042020/lib/square_array.rb:8: syntax error, unexpected end
+      end# Square Array
 
 ## Learning Goals
 
